@@ -1,16 +1,73 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Umar Farooq</h1>
+<h3 align="center">🚀 Machine Learning Engineer | Full Stack Developer | AI Builder</h3>
 
-<!--
-**umarfarooq57/umarfarooq57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Full+Stack+Developer;Building+Smart+Solutions;Freelancer" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me  
+- 🔭 Currently building **AI & Automation Systems**  
+- 💻 Strong in **Full Stack Development (React, Next.js, Node.js)**  
+- 🤖 Working with **Machine Learning & Deep Learning**  
+- 🎯 Mission: Build scalable products & freelance globally  
+
+---
+
+## ⚙️ Tech Stack  
+
+### 🚀 Languages  
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,cpp" />
+</p>
+
+### 🌐 Web Development  
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs" />
+</p>
+
+### 🧠 AI / ML  
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+### 🗄️ Databases  
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+---
+
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=umarfarooq57&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=umarfarooq57&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Featured Projects  
+
+### 🛒 E-Commerce Platform  
+✔️ Full Stack Application with Authentication & Payments  
+
+### 🤖 AI Voice Cloning System  
+✔️ Urdu Voice Cloning using Deep Learning  
+
+### 📦 Inventory Management System  
+✔️ C++ Based Advanced System  
+
+---
+
+## 📫 Contact Me  
+
+📧 Email: **umarfarooq5743@gmail.com**  
+🌐 Portfolio: (Add later)  
+💼 LinkedIn: (Add later)  
+
+---
+
+## ⚡ Vision  
+> I don’t just write code — I build systems that solve real-world problems 🚀
