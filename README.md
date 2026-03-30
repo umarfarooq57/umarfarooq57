@@ -64,7 +64,8 @@
 ## 📫 Contact Me  
 
 📧 Email: **umarfarooq5743@gmail.com**  
-🌐 Portfolio: (Add later)  
+🌐 Portfolio: **www.linkedin.com/in/umar-farooq57**
+  
 💼 LinkedIn: (Add later)  
 
 ---
