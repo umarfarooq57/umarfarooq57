@@ -11,7 +11,8 @@
 - 🔭 Currently building **AI & Automation Systems**  
 - 💻 Strong in **Full Stack Development (React, Next.js, Node.js)**  
 - 🤖 Working with **Machine Learning & Deep Learning**  
-- 🎯 Mission: Build scalable products & freelance globally  
+- 🚀 Passionate about **scalable systems & real-world problem solving**  
+- 🎯 Mission: Build impactful products & work globally as a freelancer  
 
 ---
 
@@ -19,28 +20,47 @@
 
 ### 🚀 Languages  
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,cpp" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,cpp" />
 </p>
 
-### 🌐 Web Development  
+### 🌐 Frontend Development  
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
 </p>
 
-### 🧠 AI / ML  
+### 🔧 Backend Development  
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🧠 AI / Machine Learning  
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
 </p>
 
 ### 🗄️ Databases  
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+</p>
+
+### ⚙️ DevOps & Tools  
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,docker,linux" />
+</p>
+
+### 📊 Data & Visualization  
+<p>
+<img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib" />
+</p>
+
+### 📱 App Development  
+<p>
+<img src="https://skillicons.dev/icons?i=react" />
 </p>
 
 ---
 
 ## 📊 GitHub Analytics  
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=umarfarooq57&show_icons=true&theme=tokyonight" />
   <img src="https://streak-stats.demolab.com?user=umarfarooq57&theme=tokyonight" />
@@ -51,22 +71,24 @@
 ## 🚀 Featured Projects  
 
 ### 🛒 E-Commerce Platform  
-✔️ Full Stack Application with Authentication & Payments  
+✔️ Built a scalable full-stack eCommerce platform with authentication, payment integration, and optimized database design  
 
 ### 🤖 AI Voice Cloning System  
-✔️ Urdu Voice Cloning using Deep Learning  
+✔️ Developed an Urdu voice cloning system using deep learning techniques for realistic speech generation  
 
 ### 📦 Inventory Management System  
-✔️ C++ Based Advanced System  
+✔️ Designed an advanced C++ based system for managing stock, orders, and business operations efficiently  
+
+---
+
+## 🌐 Portfolio  
+🔗 https://v0-portfolio-7134.vercel.app/
 
 ---
 
 ## 📫 Contact Me  
-
 📧 Email: **umarfarooq5743@gmail.com**  
-🌐 Portfolio: (Add later)
-  
-💼 LinkedIn: **www.linkedin.com/in/umar-farooq57**  
+💼 LinkedIn: **https://www.linkedin.com/in/umar-farooq57/**  
 
 ---
 
