@@ -103,7 +103,7 @@
 ## 📫 Contact Me
 
 📧 Email: **umarfarooq5743@gmail.com**
-🌐 Portfolio: *(https://v0-portfolio-7134.vercel.app/)*
+🌐 Portfolio: *(Coming Soon)*
 💼 LinkedIn: [linkedin.com/in/umar-farooq57](https://www.linkedin.com/in/umar-farooq57)
 
 ---
