@@ -18,8 +18,6 @@ I design and build production-ready intelligent systems that help businesses aut
 
 **Full-Stack Platforms** — End-to-end web applications, dashboards, and internal tools.
 
-**Blockchain Integration** — Smart contract interaction, Web3 services, and on-chain automation.
-
 **Production Deployment** — Docker, CI/CD, cloud infrastructure, security, and monitoring.
 
 ---
@@ -36,8 +34,6 @@ I design and build production-ready intelligent systems that help businesses aut
 
 **DevOps** — Docker, Kubernetes, GitHub Actions, AWS, GCP, Cloudflare, Nginx, Terraform
 
-**Blockchain** — Smart Contracts, Web3.js, Ethers.js
-
 **Languages** — Python, JavaScript, TypeScript, C++, Java, SQL
 
 **Tools** — Git, VS Code, Postman, Figma, Jupyter, Linux, Streamlit, Gradio
@@ -46,17 +42,17 @@ I design and build production-ready intelligent systems that help businesses aut
 
 ## Featured Projects
 
-**Biometric Attendance System** — Fingerprint-based attendance tracking with real-time logging and automated report generation. Built with Python, OpenCV, and SQLite.
+**Biometric Attendance System** — Fingerprint-based attendance tracking with real-time logging and automated report generation. (Python, OpenCV, SQLite)
 
-**Digital Management System** — Complete document and task management platform for organizations. Features role-based access, file versioning, and audit logs. Built with React, Node.js, and MongoDB.
+**Digital Management System** — Complete document and task management platform with role-based access and audit logs. (React, Node.js, MongoDB)
 
-**PDF Converter** — High-performance document conversion tool supporting PDF to Word, Excel, image, and batch processing. Built with Python, FastAPI, and React.
+**PDF Converter** — High-performance document conversion tool supporting PDF to Word, Excel, image, and batch processing. (Python, FastAPI, React)
 
-**Research Guru** — Academic research assistant with paper recommendations, citation management, and collaborative annotation. Built with Next.js, PostgreSQL, and NLP models.
+**Research Guru** — Academic research assistant with paper recommendations, citation management, and collaborative annotation. (Next.js, PostgreSQL, NLP)
 
-**Job Services Portal** — Full-stack job platform with resume parsing, job matching, and application tracking. Built with Django, React, and PostgreSQL.
+**Job Services Portal** — Full-stack job platform with resume parsing, job matching, and application tracking. (Django, React, PostgreSQL)
 
-**Inventory Management System** — Complete stock management solution with low-stock alerts, sales tracking, and supplier management. Built with C++, OOP, and file handling.
+**Inventory Management System** — Complete stock management solution with low-stock alerts, sales tracking, and supplier management. (C++, OOP, File Handling)
 
 ---
 
