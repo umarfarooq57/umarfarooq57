@@ -2,105 +2,84 @@
 
 **Full-Stack Engineer | AI Workflow Automation & Agentic Systems Builder**
 
-I design and build **production-ready, intelligent systems** that help businesses automate operations, scale reliably, and make smarter decisions. My work sits at the intersection of **agentic AI**, **workflow automation**, and **robust full-stack engineering**.
+I design and build production-ready intelligent systems that help businesses automate operations, scale reliably, and make smarter decisions.
+
+📍 Pakistan · 🌍 Remote Worldwide · 🔗 [umarcraft.vercel.app](https://umarcraft.vercel.app)
 
 ---
 
-## 🧠 About Me
+## What I Do
 
-| | |
-|---|---|
-| 🎯 **Focus** | Business outcomes: reliability, performance, security, maintainability |
-| 🤖 **Specialty** | Agentic AI systems that reason, plan, and act |
-| 🔧 **Approach** | Partner, not just a developer — long-term thinking |
-| 🌍 **Open to** | Freelance & remote opportunities globally |
+**Agentic AI Systems** — Autonomous agents that reason, plan, and act using tools and APIs.
 
----
+**Workflow Automation** — AI-driven task orchestration, decision systems, and RAG pipelines.
 
-## 🤖 What I Build
+**Backend Engineering** — REST APIs, event-driven services, microservices, and real-time systems.
 
-| Area | Capabilities |
-|------|--------------|
-| **🧠 Agentic AI** | Autonomous agents, tool orchestration, decision automation |
-| **⚡ Workflow Automation** | RAG systems, task orchestration, internal ops automation |
-| **🔧 Backend** | REST/event-driven APIs, microservices, real-time systems |
-| **💻 Full-Stack** | End-to-end apps, dashboards, internal tools |
-| **⛓️ Blockchain** | Smart contracts, Web3 services, on-chain automation |
-| **🚀 Production** | Docker, CI/CD, cloud deployment, security, monitoring |
+**Full-Stack Platforms** — End-to-end web applications, dashboards, and internal tools.
+
+**Blockchain Integration** — Smart contract interaction, Web3 services, and on-chain automation.
+
+**Production Deployment** — Docker, CI/CD, cloud infrastructure, security, and monitoring.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 🧠 AI & Automation
-`Agentic AI` `RAG Pipelines` `LangChain` `LlamaIndex` `OpenAI API` `HuggingFace` `Pinecone` `ChromaDB` `Qdrant` `n8n` `Make.com`
+**AI & Automation** — LangChain, LlamaIndex, OpenAI API, HuggingFace, Pinecone, ChromaDB, Qdrant, n8n, Make.com
 
-### ⚙️ Backend
-`Node.js` `Express` `Django` `FastAPI` `NestJS` `REST APIs` `WebSockets` `GraphQL` `JWT` `OAuth2` `Celery` `RabbitMQ` `Prisma` `Mongoose`
+**Backend** — Node.js, Express, Django, FastAPI, NestJS, REST, GraphQL, WebSockets, JWT, Celery, RabbitMQ, Prisma, Mongoose
 
-### 💻 Frontend
-`React` `Next.js` `Tailwind` `Vite` `Redux` `Zustand` `React Query` `Framer Motion` `ShadCN UI` `Three.js`
+**Frontend** — React, Next.js, Tailwind, Vite, Redux, Zustand, React Query, Framer Motion, ShadCN UI, Three.js
 
-### 🗄️ Databases
-`PostgreSQL` `MongoDB` `Redis` `MySQL` `Supabase` `Firebase`
+**Databases** — PostgreSQL, MongoDB, Redis, MySQL, Supabase, Firebase
 
-### ☁️ DevOps & Cloud
-`Docker` `Kubernetes` `GitHub Actions` `AWS` `GCP` `Cloudflare` `Nginx` `Terraform` `Render` `Railway`
+**DevOps** — Docker, Kubernetes, GitHub Actions, AWS, GCP, Cloudflare, Nginx, Terraform
 
-### ⛓️ Blockchain
-`Smart Contracts` `Web3.js` `Ethers.js` `On-Chain Automation`
+**Blockchain** — Smart Contracts, Web3.js, Ethers.js
+
+**Languages** — Python, JavaScript, TypeScript, C++, Java, SQL
+
+**Tools** — Git, VS Code, Postman, Figma, Jupyter, Linux, Streamlit, Gradio
 
 ---
 
-## 📊 GitHub Analytics
+## Featured Projects
 
-| | |
-|---|---|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umarfarooq57&show_icons=true&theme=tokyonight&count_private=true) | ![GitHub Streak](https://streak-stats.demolab.com?user=umarfarooq57&theme=tokyonight) |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umarfarooq57&layout=compact&theme=tokyonight&langs_count=8) | ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=umarfarooq57&theme=tokyo-night&hide_border=true) |
+**Biometric Attendance System** — Fingerprint-based attendance tracking with real-time logging and automated report generation. Built with Python, OpenCV, and SQLite.
 
----
+**Digital Management System** — Complete document and task management platform for organizations. Features role-based access, file versioning, and audit logs. Built with React, Node.js, and MongoDB.
 
-## 🚀 Featured Projects
+**PDF Converter** — High-performance document conversion tool supporting PDF to Word, Excel, image, and batch processing. Built with Python, FastAPI, and React.
 
-| Project | Tech Stack | Key Feature |
-|---------|------------|-------------|
-| **AI Voice Cloning** | PyTorch, TTS, FastAPI | Urdu voice synthesis with fine-tuning |
-| **RAG AI Chatbot** | LangChain, Pinecone, Next.js | Custom knowledge base assistant |
-| **E-Commerce Platform** | React, Node, Stripe | Payments + admin dashboard |
-| **ML Training Dashboard** | Streamlit, Scikit-Learn | Real-time model analytics |
-| **Inventory System** | C++, OOP | File handling + data structures |
+**Research Guru** — Academic research assistant with paper recommendations, citation management, and collaborative annotation. Built with Next.js, PostgreSQL, and NLP models.
+
+**Job Services Portal** — Full-stack job platform with resume parsing, job matching, and application tracking. Built with Django, React, and PostgreSQL.
+
+**Inventory Management System** — Complete stock management solution with low-stock alerts, sales tracking, and supplier management. Built with C++, OOP, and file handling.
 
 ---
 
-## 🎯 Industries I Serve
+## GitHub Analytics
 
-`Startups & SaaS` `AI Platforms` `Business Automation` `Web3 Products` `Enterprise Tools`
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umarfarooq57&show_icons=true&theme=tokyonight&count_private=true)
 
----
+![GitHub Streak](https://streak-stats.demolab.com?user=umarfarooq57&theme=tokyonight)
 
-## 📈 My Philosophy
-
-> **Reliable · Scalable · Understandable · Built for the long term**
-
-I don't just write code — I build systems that solve real-world problems.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umarfarooq57&layout=compact&theme=tokyonight&langs_count=8)
 
 ---
 
-## 📬 Connect With Me
+## Let's Connect
 
-| | |
-|---|---|
-| 📧 **Email** | `umarfarooq5743@gmail.com` |
-| 💼 **LinkedIn** | [linkedin.com/in/umar-farooq57](https://linkedin.com/in/umar-farooq57) |
-| 🌐 **Portfolio** | [kalivox.vercel.app](https://umarcraft.vercel.app) |
+**Email** — umarfarooq5743@gmail.com
+
+**LinkedIn** — [linkedin.com/in/umar-farooq57](https://linkedin.com/in/umar-farooq57)
+
+**Portfolio** — [umarcraft.vercel.app](https://umarcraft.vercel.app)
 
 ---
 
-<p align="center">
-  <i>👉 Let's build intelligent systems that drive real growth. 👈</i>
-</p>
+*Let's build intelligent systems that drive real growth.*
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=umarfarooq57&label=Profile%20Views&color=1&icon=0&pretty=true" />
-</p>
+![Profile Views](https://visitcount.itsvg.in/api?id=umarfarooq57&label=Profile%20Views&color=0&icon=0&pretty=true)
