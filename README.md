@@ -1,63 +1,43 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=200&section=header&text=Umar%20Farooq&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20AI%20Automation%20%26%20Agentic%20Systems&descAlignY=58&descSize=18" width="100%" />
+# Umar Farooq
 
-<a href="https://umarcraft.vercel.app"><img src="https://img.shields.io/badge/Portfolio-umarcraft.vercel.app-1e3a8a?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://linkedin.com/in/umar-farooq57"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:umarfarooq5743@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+### Full-Stack Engineer · AI Automation & Agentic Systems
+
+Building systems that connect AI to real business workflows — from autonomous agents to production backends that keep them running.
+
+📍 Pakistan &nbsp;|&nbsp; 🌍 Open to Remote Work
+
+<a href="https://umarcraft.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1e3a8a?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://linkedin.com/in/umar-farooq57"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:umarfarooq5743@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
 <br>
 
-I build systems that connect AI to real business workflows — autonomous agents that reason and act, RAG pipelines that retrieve and decide, and the backend infrastructure that keeps all of it running reliably in production.
+## About
 
-**📍 Pakistan &nbsp;&nbsp;🌍 Open to Remote Work**
-
-<br>
-
-### 🚀 Focus Areas
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**AI Agents & RAG**
-Tool-using agents, retrieval pipelines, decision automation
-
-</td>
-<td width="50%" valign="top">
-
-**Backend Engineering**
-REST/GraphQL APIs, event-driven services, real-time systems
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**Full-Stack Delivery**
-Dashboards, internal tools, end-to-end platforms
-
-</td>
-<td width="50%" valign="top">
-
-**Infrastructure**
-Docker, CI/CD, cloud deployment, monitoring
-
-</td>
-</tr>
-</table>
+I design and build intelligent systems for businesses that need to automate operations and scale reliably — AI agents, RAG pipelines, backend platforms, and the infrastructure that keeps them in production.
 
 <br>
 
-### 🛠️ Tech Stack
+## Focus Areas
+
+- **AI Agents & RAG** — tool-using agents, retrieval pipelines, decision automation
+- **Backend Engineering** — REST/GraphQL APIs, event-driven services, real-time systems
+- **Full-Stack Delivery** — dashboards, internal tools, end-to-end web platforms
+- **Infrastructure** — Docker, CI/CD, cloud deployment, monitoring
+
+<br>
+
+## Tech Stack
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
 </p>
 
@@ -99,66 +79,34 @@ Docker, CI/CD, cloud deployment, monitoring
 
 <br>
 
-### 📌 Featured Projects
+## Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🩻 Biometric Attendance System**
+**Biometric Attendance System**
 Fingerprint-based attendance tracking with real-time logging and automated report generation.
 `Python` `OpenCV` `SQLite`
 
-</td>
-<td width="50%" valign="top">
-
-**📁 Digital Management System**
+**Digital Management System**
 Document and task management platform with role-based access and audit logs.
 `React` `Node.js` `MongoDB`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**📄 PDF Converter**
+**PDF Converter**
 High-performance batch conversion tool — PDF to Word, Excel, and image formats.
 `Python` `FastAPI` `React`
 
-</td>
-<td width="50%" valign="top">
-
-**🔍 Research Guru**
+**Research Guru**
 Academic research assistant with paper recommendations and citation management.
 `Next.js` `PostgreSQL` `NLP`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**💼 Job Services Portal**
+**Job Services Portal**
 Job platform with resume parsing, job matching, and application tracking.
 `Django` `React` `PostgreSQL`
 
-</td>
-<td width="50%" valign="top">
-
-</td>
-</tr>
-</table>
-
-> ⚠️ Link each project title to its actual repo — right now they're placeholders. This is the one change that most affects how this profile is judged.
+> Link each project title to its actual repo — this is the single highest-impact fix you can make here.
 
 <br>
-
-### 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=umarfarooq57&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarfarooq57&layout=compact&theme=tokyonight&hide_border=true" />
+
+**Let's build something.** [umarfarooq5743@gmail.com](mailto:umarfarooq5743@gmail.com)
+
 </div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0f172a&height=100&section=footer" width="100%" />
