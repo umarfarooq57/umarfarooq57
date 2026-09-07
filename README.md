@@ -1,86 +1,85 @@
-<h1 align="center">Hi, I'm Umar Farooq 👋</h1>
-<h3 align="center">Full-Stack Engineer building AI-powered automation & agentic systems</h3>
+<div align="center">
 
-<p align="center">
-📍 Pakistan &nbsp;·&nbsp; 🌍 Available for Remote Work &nbsp;·&nbsp;
-<a href="https://umarcraft.vercel.app">🔗 Portfolio</a>
-</p>
+# Umar Farooq
 
-<p align="center">
-I build systems that connect AI to real business workflows — from autonomous agents that plan and act, to backend platforms that keep them running reliably in production.
-</p>
+### Full-Stack Engineer · AI Automation & Agentic Systems
 
----
+Building systems that connect AI to real business workflows — from autonomous agents to production backends that keep them running.
 
-### 🚀 What I Work On
+📍 Pakistan &nbsp;|&nbsp; 🌍 Remote &nbsp;|&nbsp; [Portfolio](https://umarcraft.vercel.app) &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/umar-farooq57) &nbsp;|&nbsp; [Email](mailto:umarfarooq5743@gmail.com)
 
-- **AI Agents & RAG Pipelines** — tool-using agents, retrieval-augmented systems, and decision automation
-- **Backend & APIs** — scalable REST/GraphQL services, event-driven architecture, real-time systems
-- **Full-Stack Apps** — dashboards, internal tools, and end-to-end web platforms
-- **Deployment & Infra** — containerized, CI/CD-driven, monitored production environments
+</div>
 
----
+<br>
 
-### 🛠️ Tech Stack
+## About
 
-**AI / Automation**
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+I design and build intelligent systems for businesses that need to automate operations and scale reliably — AI agents, RAG pipelines, backend platforms, and the infrastructure that keeps them in production.
 
-**Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+<br>
 
-**Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+## Focus Areas
 
-**Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+- **AI Agents & RAG** — tool-using agents, retrieval pipelines, decision automation
+- **Backend Engineering** — REST/GraphQL APIs, event-driven services, real-time systems
+- **Full-Stack Delivery** — dashboards, internal tools, end-to-end web platforms
+- **Infrastructure** — Docker, CI/CD, cloud deployment, monitoring
 
-**DevOps**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+<br>
 
----
+## Tech Stack
 
-### 📌 Featured Projects
+`Python` `JavaScript` `TypeScript` `C++` `Java` `SQL`
 
-| Project | Description | Stack |
-|---|---|---|
-| **[Biometric Attendance System](#)** | Fingerprint-based attendance tracking with real-time logging & automated reports | Python, OpenCV, SQLite |
-| **[Digital Management System](#)** | Document & task management platform with role-based access and audit logs | React, Node.js, MongoDB |
-| **[PDF Converter](#)** | Batch document conversion tool — PDF to Word/Excel/Image | Python, FastAPI, React |
-| **[Research Guru](#)** | Academic research assistant with citation management & paper recommendations | Next.js, PostgreSQL, NLP |
-| **[Job Services Portal](#)** | Job platform with resume parsing, matching, and application tracking | Django, React, PostgreSQL |
+**AI & Automation** — LangChain · LlamaIndex · OpenAI API · HuggingFace · Pinecone · ChromaDB · Qdrant · n8n
 
-> Replace the `#` links above with your actual GitHub repo or live demo URLs — this matters more than almost anything else on this page.
+**Backend** — Node.js · Express · FastAPI · Django · NestJS · GraphQL · WebSockets · Prisma
 
----
+**Frontend** — React · Next.js · Tailwind · Redux · Zustand · Framer Motion
 
-### 📊 GitHub Stats
+**Data** — PostgreSQL · MongoDB · Redis · MySQL · Supabase · Firebase
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=umarfarooq57&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarfarooq57&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" width="43%" />
-</p>
+**DevOps** — Docker · Kubernetes · GitHub Actions · AWS · GCP · Terraform
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=umarfarooq57&theme=tokyonight&hide_border=true" width="60%" />
-</p>
+<br>
 
----
+## Projects
 
-### 📬 Let's Connect
+**[Biometric Attendance System](#)**
+Fingerprint-based attendance tracking with real-time logging and automated report generation.
+`Python` `OpenCV` `SQLite`
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:umarfarooq5743@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/umar-farooq57)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://umarcraft.vercel.app)
+**[Digital Management System](#)**
+Document and task management platform with role-based access and audit logs.
+`React` `Node.js` `MongoDB`
+
+**[PDF Converter](#)**
+High-performance batch conversion tool — PDF to Word, Excel, and image formats.
+`Python` `FastAPI` `React`
+
+**[Research Guru](#)**
+Academic research assistant with paper recommendations and citation management.
+`Next.js` `PostgreSQL` `NLP`
+
+**[Job Services Portal](#)**
+Job platform with resume parsing, job matching, and application tracking.
+`Django` `React` `PostgreSQL`
+
+> Swap the `#` links for your actual repo or live demo URLs — this is the single highest-impact fix you can make here.
+
+<br>
+
+## GitHub Stats
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=umarfarooq57&show_icons=true&theme=default&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarfarooq57&layout=compact&theme=default&hide_border=true&langs_count=8" />
+</div>
+
+<br>
+
+<div align="center">
+
+**Let's build something.** [umarfarooq5743@gmail.com](mailto:umarfarooq5743@gmail.com)
+
+</div>
