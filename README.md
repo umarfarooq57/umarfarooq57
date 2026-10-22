@@ -16,7 +16,7 @@
 
 <a href="https://umarcraft.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-1e3a8a?style=for-the-badge&logo=vercel&logoColor=white"></a>
 <a href="https://linkedin.com/in/umar-farooq57"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:umarfarooq5743@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:farooxiumdev@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 <br>
 
