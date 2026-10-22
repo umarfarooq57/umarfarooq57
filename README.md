@@ -6,7 +6,7 @@
 
 <img src="https://img.shields.io/badge/UMAR%20FAROOQ-0f172a?style=for-the-badge&labelColor=0f172a&color=1e3a8a">
 
-### `Full-Stack Engineer` × `AI Automation` × `Agentic Systems`
+### `Full-Stack Engineer` × `AI Automation` × `Founder @ Farooxium Dev`
 
 <br>
 
@@ -14,7 +14,7 @@
 
 <br>
 
-<a href="https://umarcraft.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-1e3a8a?style=for-the-badge&logo=vercel&logoColor=white"></a>
+<a href="https://farooxium.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-1e3a8a?style=for-the-badge&logo=vercel&logoColor=white"></a>
 <a href="https://linkedin.com/in/umar-farooq57"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:farooxiumdev@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
